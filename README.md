@@ -26,33 +26,8 @@ consumer_secret
 access_key
 access_secret
 
-now follow the following steps for coding 
-
-extract the twitter data 
-
-converts to data frame
-
-remove odd characters
-
-remove emoticon
-
-remove URL
-
-remove decimal number
- 
-remove new lines
-
-change a list to character vector
-
-Creating three different data frames for Score, Positive and Negative
-
-Removing text column from data frame
-
-Creating data frame
-
-Merging three data frames into one
-
-Draw the charts as required
+You need positive word and negetive word librery .
 
 
+I found that 60% tweets are positive and 40% are negetive tweets.
  
