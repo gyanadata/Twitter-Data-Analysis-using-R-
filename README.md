@@ -3,7 +3,7 @@ This projects gives us an brief idea about how to analyze unstructured data in R
 
 Basically here i used R tools for visual studio . you can opt for R studio.
 
-First create your Project and install the following packages in R 
+First create your Project and install the following packages in R ->
 
 ROAuth
 
@@ -27,7 +27,7 @@ Then set your working directory for current working project.
 
 login to your twitter app for devlopment.
 
-There we will create a app for twitter data extraction which will have the follwing details
+There we will create a app for twitter data extraction which will have the follwing details ->
 
 consumer_key
 
