@@ -1,5 +1,5 @@
 # Twitter-Data-Analysis-using-R-
-This projects gives us an brief idea about how to analyze unstructured data in R .Here i took 2000 tweets releted to modi and RahulGandhi and tried to find out the sentiment of people about these leaders in india.
+This project gives us an brief idea about how to analyze unstructured data in R .Here i took 2000 tweets releted to modi and RahulGandhi and tried to find out the sentiment of people about these leaders in india.
 
 Basically here i used R tools for visual studio . you can opt for R studio.
 
